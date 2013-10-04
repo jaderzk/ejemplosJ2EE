@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>Reservar Espacio Físico</h1>
+        Agregar Plugin de JQUERY
     </body>
 </html>
